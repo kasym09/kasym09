@@ -8,9 +8,11 @@
 <a href="https://t.me/Kasym_Mankeyev">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
+
+  <img src="https://komarev.com/ghpvc/?username=kasym09&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=github.com/kasym09&style=flat-square&color=blue" alt=""/>
+
 
 ### Hi there 👋
 
