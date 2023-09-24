@@ -17,7 +17,7 @@
 </div>
 
 ### Hi there 👋
-
+### :woman_technologist: About Me :
 <!--
 **kasym09/kasym09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
