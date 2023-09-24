@@ -36,7 +36,7 @@ I am a Junior Data Scientist / Data Analyst <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp
-  
-  
+  <img src="https://camo.githubusercontent.com/96796a43b2c70f9c57f3ad251efd2073b828ab3037e4af502c7c409f9564d2b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465" title="Python" alt="Python" width="40" height="40"/>&nbsp
+
   
 </div>
