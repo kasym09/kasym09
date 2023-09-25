@@ -7,6 +7,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a href="https://t.me/Kasym_Mankeyev">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://www.codewars.com/users/Kasym09">
+  <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
+
+
+  
 </a>
 
   <img src="https://komarev.com/ghpvc/?username=kasym09&style=flat-square&color=blue" alt=""/>
@@ -18,18 +23,19 @@
 
 ### Hi there 👋
 ### :woman_technologist: About Me :
-<!--
-I am a Junior Data Scientist / Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Junior Data Scientist / Data Analyst on a mission to unlock insights from data and drive data-informed decisions. :chart_with_upwards_trend: 
+
+- 🔭 I’m currently working on my pet projects and honing my skills on Kaggle, where I'm always up for a data challenge.
+- 🌱 I’m continually learning and growing my expertise through the Data Science program at Yandex Praktikum.
+- 👯 I’m excited about the opportunity to collaborate on data-driven projects and tackle real-world problems.
+- 💬 Ask me about anything related to data analysis, machine learning, or data visualization; I'm here to share my knowledge.
+- 📫 Feel free to reach me on Telegram: <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+- ⚡ Fun fact: I'm not just passionate about data; I also love hiking, cycling, and trying out new cuisines.
+
+If you're interested in discussing data, collaboration opportunities, or just want to connect, please don't hesitate to reach out. Let's explore the data universe together! 🚀
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
