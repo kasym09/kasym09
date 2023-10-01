@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   <a href="https://www.codewars.com/users/Kasym09">
   <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
-
+  <a href="https://leetcode.com/kasym09/">
+  <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 
   
 </a>
