@@ -5,7 +5,7 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/kasym-mankeyev-327842116/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<a href="https://t.me/Kasym_Mankeyev">
+<a href="https://t.me/kmankeye">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   <a href="https://www.codewars.com/users/Kasym09">
   <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
@@ -25,7 +25,7 @@
 ### Hi there 👋
 ### :woman_technologist: About Me :
 
-Всем привет, я начинающий дата саентист, я могу предобрабатывать данные, проводить исследовательский анализ, строить/тренить модели МЛ для табличных данных, так же немного знаю Keras / Tensorflow. Умею строить дэшборды в Power BI, селектить в SQL(функции агрегации, оконные функции, подзапросы). Еще знаю Git, терминал и основы GO.
+Всем привет, я начинающий дата саентист, могу предобрабатывать данные, проводить исследовательский анализ, строить/тренить модели МЛ для табличных данных, так же немного знаю Keras / Tensorflow. Умею строить дэшборды в Power BI, селектить в SQL(функции агрегации, оконные функции, подзапросы). Еще знаю Git, терминал и основы GO.
 
 
 
